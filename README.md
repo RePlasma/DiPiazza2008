@@ -10,7 +10,7 @@ Complementary reading: Link to Fabien Niel's PhD thesis: https://theses.hal.scie
 
 Abstract: _The Landau–Lifshitz (The Classical Theory of Fields. Elsevier, Oxford 1975) form of the Lorentz–Abraham–Dirac equation in the presence of a plane wave of arbitrary shape and polarization is solved exactly and in closed form. The explicit solution is presented in the particular, paradigmatic cases of a constant crossed field and of a monochromatic wave with circular and with linear polarization._
 
-Repository by: Bernardo Barbosa and Óscar Amaro
+Repository by: [Bernardo Barbosa](https://github.com/barbosabernardo) and [Óscar Amaro](https://github.com/OsAmaro)
 
 ----
 
