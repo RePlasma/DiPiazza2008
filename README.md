@@ -28,3 +28,10 @@ Repository by: [Bernardo Barbosa](https://github.com/barbosabernardo) and [Ósca
 ### FAQ:
 - Why do we need to decompose eq 3 into 2 terms if the $\psi$ s can already be arbitrary functions of phase $\phi$? The $\psi$ s are scalars. The two terms represent different polarization directions. This choice is general, and immediately includes LP and CP as particular cases.
 - Why general function of phase if it's already a PW? PW means that the EM field is invariant in transverse coordinates. It can still have a temporal (longitudinal) envelope, and also more complicated structure, like a two-color laser (2 frequencies with some dephasing between them).  
+
+### TODO:
+- place particle within the Plane Wave with the correct initial momenta (such that it would perform a "standard" trajectory if RR was absent)
+- implement analytical expressions of momentum (either following DiPiazza's paper or Fabien Niel's PhD thesis)
+- compare with osiris PIC simulation (CRR, not QRR), show agreement
+- compile functions in a .py file (easier to share and to be used in further projects)
+- improve comments and introduction in the Jupyter notebook for easy reading
